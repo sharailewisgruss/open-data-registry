@@ -1,6 +1,6 @@
 Name: First Street Foundation (FSF) Flood Risk Summary Statistics
 
-Description: CSV files of flood statistics for the 48 contiguous states at the congressional district, county, and zip code level. The CSV for each of these geographical extents includes statistics on the amount of properties at risk according to FEMA, the number of properties at risk according to First Street Foundation, and the difference between the two.
+Description: https://first-street-climate-risk-statistics-for-noncommercial-use.s3.amazonaws.com/index.html  CSV files of flood statistics for the 48 contiguous states at the congressional district, county, and zip code level. The CSV for each of these geographical extents includes statistics on the amount of properties at risk according to FEMA, the number of properties at risk according to First Street Foundation, and the difference between the two.
 
 Documentation: https://assets.firststreet.org/uploads/2020/06/first_street_foundation__first_national_flood_risk_assessment.pdf
 
